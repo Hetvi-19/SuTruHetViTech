@@ -1,0 +1,8 @@
+{
+  "name": "AetherMed AI",
+  "description": "Futuristic AI-powered medical diagnostic and wellness platform with 3D visualizations and predictive health analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
